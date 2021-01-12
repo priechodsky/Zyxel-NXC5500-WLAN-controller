@@ -17,3 +17,4 @@ Later add these features (when there will be more time :)
 - etc...
 
 If you are interested, you can contact me and add a function, but I do not think that they are still particularly necessary for routine monitoring.
+priechodsky.dusan@gmail.com
